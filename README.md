@@ -1,2 +1,3 @@
 # special-invention
-just making random things
+it's just make things that i do on python and, yeah
+# If you want execute it, only run the .py thingies.
